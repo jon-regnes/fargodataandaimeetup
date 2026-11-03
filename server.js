@@ -11,7 +11,7 @@ try {
 
 const PUB_ID = process.env.BEEHIIV_PUBLICATION_ID || "pub_5446fdae-9f5e-42bd-b8e7-b1ba3503d8ea";
 const API_KEY = process.env.BEEHIIV_API_KEY;
-const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg", ".ico": "image/x-icon", ".json": "application/json" };
+const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg", ".ico": "image/x-icon", ".json": "application/json", ".txt": "text/plain; charset=utf-8", ".xml": "application/xml; charset=utf-8" };
 const root = __dirname;
 const hits = new Map(); // ip -> [timestamps]
 

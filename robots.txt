@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /concepts/
+
+Sitemap: https://www.fargodataandai.com/sitemap.xml
