@@ -2,7 +2,7 @@
 
 > An informal community in the Fargo–Moorhead–West Fargo area (North Dakota / Minnesota) that meets to share ideas, discuss data and AI trends and tools, and enjoy member-led presentations in a relaxed, welcoming setting.
 
-Website: https://www.fargodataandai.com/
+Website: https://fargodataandai.com/
 
 ## What we do
 - Host in-person meetups with member-led presentations on data and AI.
@@ -10,7 +10,7 @@ Website: https://www.fargodataandai.com/
 - Send one short email every month.
 
 ## Key pages
-- [Home, upcoming events, and how to join](https://www.fargodataandai.com/): the upcoming meetup list, the Slack invite, and the email signup, all on one page.
+- [Home, upcoming events, and how to join](https://fargodataandai.com/): the upcoming meetup list, the Slack invite, and the email signup, all on one page.
 
 ## Notes
 - Upcoming events change often. The home page is the source of truth for dates, times, and locations.

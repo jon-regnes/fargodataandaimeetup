@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /concepts/
 
-Sitemap: https://www.fargodataandai.com/sitemap.xml
+Sitemap: https://fargodataandai.com/sitemap.xml
