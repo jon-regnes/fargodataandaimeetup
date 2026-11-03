@@ -9,7 +9,7 @@ window.MEETUP = {
     "We meet to share ideas, discuss data and AI trends and tools, and enjoy member-led presentations in a relaxed, welcoming setting.",
 
   slackUrl:
-    "https://join.slack.com/t/fargodatandaimeetup/shared_invite/zt-3q929d6ap-cnqLfZZ0W6Yu3d4pbsNAuA",
+    "https://join.slack.com/t/fargodatandaimeetup/shared_invite/zt-4fdheyvw1-cs4Xo957iX8hkhg9I6j7FA",
 
   // Email signup POSTs JSON {email} here (server.js forwards it to beehiiv).
   emailEndpoint: "/api/subscribe",
